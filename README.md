@@ -1,4 +1,4 @@
-# CppND-System-Monitor
+# System Monitor Project
 
 ## Overview
 

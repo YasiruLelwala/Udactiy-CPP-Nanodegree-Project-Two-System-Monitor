@@ -25,7 +25,7 @@ The project starts with a **main() function**.
 
 ## Instructions
 
-1. Clone the project repository: `git clone https://github.com/udacity/CppND-System-Monitor-Project-Updated.git`
+1. Clone the project repository.
 
 2. Build the project: `make build`
 
